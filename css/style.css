@@ -5,17 +5,35 @@
 }
 
 
-.bg-white {
-    background-color: white;
+body{
+    background-color: rgb(240, 233, 233)
 }
 
 
-.bg-gray {
-    background-color: rgb(246, 248, 249)
+.box-margin-width{
+    width: 70%;
+    margin: auto;
+}
+
+.bg-white {
+    background-color: white;
 }
 
 
 .bg-blue {
     background-color: rgb(9, 169, 237)
 }
+
+button{
+    border-width: 1px;
+    padding: 4px 4px;
+    border-radius: 4px;
+    border-style: solid;
+}
+
+#logo-padding{
+    padding: 9px 0px 4px 18px;
+    margin-bottom: 20px;
+}
+
 
