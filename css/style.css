@@ -4,3 +4,18 @@
     padding: 0;
 }
 
+
+.bg-white {
+    background-color: white;
+}
+
+
+.bg-gray {
+    background-color: rgb(246, 248, 249)
+}
+
+
+.bg-blue {
+    background-color: rgb(9, 169, 237)
+}
+
