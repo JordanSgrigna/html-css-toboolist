@@ -24,6 +24,38 @@ body{
     background-color: rgb(9, 169, 237)
 }
 
+
+.bg-green {
+    background-color: rgba(148, 216, 46, 0.788)
+}
+
+
+.bg-purple {
+    background-color: rgba(182, 26, 182, 0.986)
+}
+
+
+.bg-pink {
+    background-color: rgb(231, 99, 121)
+}
+
+
+.bg-orange {
+    background-color: orangered
+}
+
+
+.bg-darkgreen {
+    background-color: rgba(1, 146, 62, 0.664)
+}
+
+
+.font-white {
+    color: white
+}
+
+
+
 button{
     border-width: 1px;
     padding: 4px 4px;
@@ -44,50 +76,63 @@ button{
 }
 
 .checkmark-style{
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     border: 1px solid green;
     display: inline-block;
     background-color: rgb(255, 255, 255);
     color: green;
     border-radius: 50%;
     text-align: center;
-    font-size: 10px
+    font-size: 13px
 }
 
 
 .cross-style{
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     border: 1px solid red;
     display: inline-block;
     background-color: rgb(255, 255, 255);
     color: red;
     border-radius: 50%;
     text-align: center;
-    font-size: 10px
+    font-size: 13px
+}
+
+.description-boxes{
+    width: 65px;
+    height: 20px;
+    border-radius: 100px;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 10px;
 }
 
 
 
 .paragraph-line-height-padding{
-    line-height: 15px;
+    line-height: 20px;
     padding-bottom: 10px;
+    padding-top: 25px;
 }
 
 details{
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     margin-bottom: 8px;
 }
 
 p {
-    padding-top: 10px
+    padding-top: 18px;
+    font-size: 18px;
+    font-weight: 200;
 }
 
 .titles-font-style{
     font-weight: 1000;
-    font-size: 18px;
-    font-family:
+    font-size: 22px;
+    color: rgb(59, 59, 59);
 
 }
 
