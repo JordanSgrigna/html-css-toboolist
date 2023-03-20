@@ -84,7 +84,8 @@ button{
     color: green;
     border-radius: 50%;
     text-align: center;
-    font-size: 13px
+    font-size: 13px;
+    margin-right: 5px;
 }
 
 
@@ -97,7 +98,8 @@ button{
     color: red;
     border-radius: 50%;
     text-align: center;
-    font-size: 13px
+    font-size: 13px;
+    margin-right: 5px;
 }
 
 .description-boxes{
