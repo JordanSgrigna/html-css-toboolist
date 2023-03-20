@@ -44,19 +44,51 @@ button{
 }
 
 .checkmark-style{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     border: 1px solid green;
     display: inline-block;
     background-color: rgb(255, 255, 255);
     color: green;
     border-radius: 50%;
     text-align: center;
+    font-size: 10px
 }
 
-.paragraph-line-height{
-    line-height: 20px;
+
+.cross-style{
+    width: 15px;
+    height: 15px;
+    border: 1px solid red;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: red;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 10px
 }
 
+
+
+.paragraph-line-height-padding{
+    line-height: 15px;
+    padding-bottom: 10px;
+}
+
+details{
+    padding-bottom: 15px;
+    margin-bottom: 8px;
+}
+
+p {
+    padding-top: 10px
+}
+
+.titles-font-style{
+    font-weight: 1000;
+    font-size: 18px;
+    font-family:
+
+}
 
 
